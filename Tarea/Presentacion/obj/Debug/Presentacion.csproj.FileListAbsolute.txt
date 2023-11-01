@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Datos.dll
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Entidades.dll
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Negocio.dll
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Datos.pdb
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\User\source\repos\Tarea\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\User\source\repos\Tarea\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tarea\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\User\source\repos\Tarea\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\User\source\repos\Tarea\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tarea\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tarea\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\User\source\repos\Tarea\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\User\source\repos\Tarea\Presentacion\obj\Debug\Presentacion.pdb
